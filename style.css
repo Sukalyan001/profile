@@ -130,6 +130,7 @@ html {
     color: #fff;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
+    background-position: 82%;
 }
 
 .home .max-width {
@@ -680,7 +681,7 @@ footer span a:hover {
 
 @media (max-width:947px) {
     .max-width{
-            padding: 0 50px;
+            padding: 0px 50px;
         }
     .menu-btn {
         display: block;
@@ -771,7 +772,6 @@ footer span a:hover {
             padding: 0 23px;
 
         }
-
         .home .home-content .text-2 {
             font-size: 60px;
         }
